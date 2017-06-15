@@ -8,7 +8,7 @@ This repository uses the not_mnist dataset for character recognition. Both the a
 ## Tasks:-
 
 1. Recognition using simple Logistic Classifier - notebook 1_notmnist.ipynb
-2. Using Tensorflow and gradient descent - notebook 2_fullyconnected.ipynb
+2. Using Tensorflow, a hidden RELU neural network and gradient descent - notebook 2_fullyconnected.ipynb
 
 ## Accuracy:-
 
